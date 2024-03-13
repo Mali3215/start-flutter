@@ -1,7 +1,7 @@
 FirabaseSample
 
 Bu sınıf, Firebase kullanarak bir anket listesini gösteren bir uygulamanın ana ekranını temsil eder. Kullanıcıların anketleri görüntüleyebileceği bir liste sunar.
-![alt text]([http://url/to/img.png](https://github.com/Mali3215/start-flutter/blob/master/image/survey.png))
+![alt text]([http://url/to/img.png](https://github.com/Mali3215/start-flutter/blob/master/image/survey.png?raw=true "Title"))
 
 BlocSample
 
