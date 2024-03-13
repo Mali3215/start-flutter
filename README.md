@@ -6,6 +6,7 @@ Bu sınıf, Firebase kullanarak bir anket listesini gösteren bir uygulamanın a
 BlocSample
 
 BlocSample sınıfı, bloc desenini kullanarak ürün listesi ve alışveriş sepeti ekranlarını yöneten bir uygulamanın ana ekranını oluşturur. Bu desen, uygulama durumunu yönetmek için kullanılır ve ekranlar arasında geçiş yapmayı sağlar.
+![alt text](https://github.com/Mali3215/start-flutter/blob/master/image/shopping.png)
 
 HttpApp
 
