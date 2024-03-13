@@ -1,16 +1,23 @@
-# start_flutter
+FirabaseSample
 
-A new Flutter project.
+Bu sınıf, Firebase kullanarak bir anket listesini gösteren bir uygulamanın ana ekranını temsil eder. Kullanıcıların anketleri görüntüleyebileceği bir liste sunar.
 
-## Getting Started
+BlocSample
 
-This project is a starting point for a Flutter application.
+BlocSample sınıfı, bloc desenini kullanarak ürün listesi ve alışveriş sepeti ekranlarını yöneten bir uygulamanın ana ekranını oluşturur. Bu desen, uygulama durumunu yönetmek için kullanılır ve ekranlar arasında geçiş yapmayı sağlar.
 
-A few resources to get you started if this is your first Flutter project:
+HttpApp
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+HttpApp sınıfı, REST API ile etkileşimde bulunan bir uygulamanın ana ekranını oluşturur. Kullanıcılar bu ekran aracılığıyla çeşitli HTTP istekleri yapabilir ve sunucudan veri alabilirler.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SqfLite
+
+SqfLite sınıfı, yerel bir SQLite veritabanı kullanarak ürün listesini yöneten bir uygulamanın ana ekranını oluşturur. Kullanıcılar bu ekran aracılığıyla yerel veritabanındaki ürünleri görüntüleyebilir ve yönetebilirler.
+
+ListsTypes
+
+ListsTypes sınıfı, öğrenci listesini görüntülemek ve yönetmek için kullanılan bir uygulamanın ana ekranını oluşturur. Kullanıcılar yeni öğrenci ekleyebilir, mevcut öğrencileri güncelleyebilir ve silebilirler. Ayrıca, öğrenci listesindeki her öğrenciye tıklanarak detaylarını görebilirler.
+
+ConditionBlocks
+
+ConditionBlocks sınıfı, belirli bir not durumuna göre farklı mesajlar gösteren bir uygulamanın ana ekranını oluşturur. Kullanıcılar bir butona tıklayarak belirli bir notun durumunu kontrol ederler ve buna göre bir mesaj alırlar.
