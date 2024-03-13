@@ -1,3 +1,6 @@
+BTK Akademi Engin Demiroğ'dan aldığım Google Flutter ile Mobil Uygulama eğitimin de gerçekleştirdiğimiz projeler. 
+
+
 FirabaseSample
 
 Bu sınıf, Firebase kullanarak bir anket listesini gösteren bir uygulamanın ana ekranını temsil eder. Kullanıcıların anketleri görüntüleyebileceği bir liste sunar.
